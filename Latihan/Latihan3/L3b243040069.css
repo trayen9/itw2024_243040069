@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+h1{
+    font-family: "Comic Sans MS";
+    color: darkblue;
+    font-size: 60px;
+    text-align: center;
+}
+h4{
+    text-align: right;
+    font-style: italic;
+}
+.D{
+    color: white;
+}
+.E{
+    color: salmon;
+    text-align: center;
+}
+p{
+    text-align: right;
+}
