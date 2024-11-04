@@ -238,3 +238,12 @@ ul{
 	background-image: url(latar.jpg);
 	margin: 0px 30px;
 }	
+
+/* footer */
+
+.footer {
+	padding: 10px;
+	background-color: #333333;
+	color: #fff;
+	text-align: center;
+}
