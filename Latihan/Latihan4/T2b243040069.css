@@ -48,7 +48,7 @@ table {
 body{
     background-color: #eaeaea;
     color: #333333;
-	background-image: url(backround.webp);
+	background-image: url(img/backround.webp);
 }
 
 .container{
@@ -92,7 +92,7 @@ ul{
 
 .gambar{
 	height: 350px;
-	background-image:url(Ikan\ di\ Akuarium.webp) ;
+	background-image:url(img/Ikan\ di\ Akuarium.webp) ;
 	background-size:cover;
 	background-position: 0px -65px;
 	border-bottom: 5px solid rgb(118, 57, 13);
@@ -235,7 +235,7 @@ ul{
 }
 
 .ikan{
-	background-image: url(latar.jpg);
+	background-image: url(img/latar.jpg);
 	margin: 0px 30px;
 }	
 
